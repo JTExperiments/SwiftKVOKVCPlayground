@@ -34,6 +34,7 @@
 		1AD0197D19CC843B003196ED /* TestCellControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestCellControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AD0198219CC843B003196ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AD0198319CC843B003196ED /* TestCellControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCellControllerTests.swift; sourceTree = "<group>"; };
+		1AD0198D19CC877B003196ED /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +81,7 @@
 				1AD0197419CC843B003196ED /* Main.storyboard */,
 				1AD0197719CC843B003196ED /* Images.xcassets */,
 				1AD0196E19CC843B003196ED /* Supporting Files */,
+				1AD0198D19CC877B003196ED /* MyPlayground.playground */,
 			);
 			path = TestCellController;
 			sourceTree = "<group>";
